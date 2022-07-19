@@ -1,0 +1,42 @@
+.boxlon{
+    text-align: center;
+    background-color:rgb(184, 205, 234);
+    width: 800px;
+    height: 345px;
+    margin: 26%;
+    border-radius: 10px;
+    box-shadow:  3px 3px 3px 4px rgb(80, 187, 248);
+}
+input {
+    height: 50px;
+    width: 635px;
+    outline: none;
+    border: 1px solid #dadce0;
+    padding: 10px;
+    border-radius: 30px;
+    font-size: inherit;
+    color: #202124;
+        
+ }
+
+
+.be{
+    text-align: center;
+    background-color:rgb(236, 108, 108);
+    width: 45px;
+    height: 25px;
+    margin-left: 64%;
+    margin-top: -2%;
+
+}
+
+.tim{
+    text-align: center;
+    background-color: rgb(0, 153, 255);
+    width: 90px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 25px;
+    margin-left: 370px;
+
+}
